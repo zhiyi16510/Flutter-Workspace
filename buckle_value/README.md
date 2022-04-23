@@ -1,16 +1,12 @@
 # buckle_value
 
-A new Flutter project.
+A212 - STIW2044 Mobile Programming
+Lab Assignment 1 
 
-## Getting Started
+Develop a simple application to retrieve and display BitCoin cryptocurrency value exchange to selected crypto and fiat money. Use the following API from CoinGecko to retrieve all the values. https://api.coingecko.com/api/v3/exchange_rates
+a)	Design the interface for the application
+b)	Develop the application
+c)	Test the application
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+given date: 18/4/2022
+due date: 25/4/2022
