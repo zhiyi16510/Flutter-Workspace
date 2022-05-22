@@ -6,5 +6,6 @@ screen for the app. Create a database with a user table and implement a backend 
 registration only. The registration page should include image uploads and other users’ registration 
 data such as email, name, phone number, password, and home address.
 
+youtube link: https://youtu.be/aopsozTslMo
 given date: 16/5/2022
 due date: 23/5/2022
