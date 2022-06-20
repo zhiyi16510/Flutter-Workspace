@@ -9,3 +9,6 @@ along with php file(s)
 given date: 16/5/2022, due date: 23/5/2022
 submitted through uum online learning
 
+Lab Assignment 3 - continuation of Mid Term
+along with php file(s)
+given date: 19/6/2022, due date: 24/6/2022
